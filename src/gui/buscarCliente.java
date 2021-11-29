@@ -18,7 +18,7 @@ import registro.conexion;
 public class buscarCliente extends javax.swing.JFrame {
 
     /**
-     * Creates new form buscarCliente
+     * Creates new form buscarClienteasdad
      */
     public buscarCliente() {
 
